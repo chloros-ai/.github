@@ -27,7 +27,7 @@ We believe that **technology and data** can empower farmers, researchers, and en
 
 ---
 
-🌐 [Website](https://chloros.ai) • 💼 Contact us at info@chloros.ai
+🌐 [Website](https://chloros.ai/en) • 💼 Contact us at info@chloros.ai
 <!--
 
 **Here are some ideas to get you started:**
