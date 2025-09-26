@@ -1,4 +1,4 @@
-# Chloros
+# CHLOROS
 
 **Empowering Agriculture with Drones and AI**  
 
